@@ -1,2 +1,3 @@
 # AuthServer
 基于SpringCloud实现Oauth2
+存储基于阿里开源的druid连接池实现自定义token存储
